@@ -10,3 +10,4 @@ ngram_parser is to create phrases which is related to place, we use the word we 
 Notice: In this repository, we didn't include the web-1t small ngram dataset. If user want to run the code have to make a directory called "web1t-small", and there are three files in it. (3gm.small, 4gm.small, 5gm.small)
 
 
+Website: There is a website which present the result, and it is written with flask. Just execute "python main.py", and it will work
