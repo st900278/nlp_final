@@ -1,0 +1,180 @@
+harmful effects	有害|VHC 影響|Na 
+harmful interference	產生|VHC 有害|VHC 干擾|Na 
+harmful substances	有害|VHC 物質|Na 
+harmful bacteria	有害|VHC 細菌|Na 
+harmful chemicals	有害|VHC 化學|Na 物質|Na 
+harmful side	有害|VHC 的|DE 一|Neu 面|Nf 
+harmful components	有害|VHC 成分|Na 
+harmful consequences	有害|VHC 的|DE 後果|Na 
+harmful emissions	有害|VHC 排放物|Na 
+harmful rays	有害|VHC 射線|Na 
+harmful organisms	有害|VHC 生物|Na 
+harmful materials	有害|VHC 物質|Na 
+harmful tax	有害|VHC 的|DE 稅收|Na 
+harmful compounds	有害|VHC 化合物|Na 
+harmful substance	有害|VHC 物質|Na 
+harmful drugs	有害|VHC 的|DE 藥物|Na 
+harmful practices	有害|VHC 的|DE 做法|Na 
+harmful radiation	有害|VHC 輻射|Na 
+harmful pollutants	有|V_2 害|Na 污染物|Na 
+harmful ingredients	有害|VHC 成分|Na 
+harmful drug	有害|VHC 的|DE 藥物|Na 
+harmful component	有害|VHC 成分|Na 
+harmful products	有害|VHC 的|DE 產品|Na 
+harmful gases	有害|VHC 氣體|Na 
+harmful toxins	有害|VHC 的|DE 毒素|Na 
+harmful insects	有害|VHC 昆蟲|Na 
+harmful traditional practices	有害|VHC 的|DE 傳統|Na 習俗|Na 
+harmful physical effects	有害|VHC 的|DE 物理|Na 效應|Na 
+harmful goods	有害|VHC 物品|Na 
+harmful things	有害|VHC 的|DE 東西|Na 
+harmful actions	有害|VHC 的|DE 行動|Na 
+harmful viruses	有害|VHC 的|DE 病毒|Na 
+harmful code	有害|VHC 代碼|Na 
+harmful free radicals	有害|VHC 自由基|Na 
+harmful agents	有害|VHC 物質|Na 
+harmful ultraviolet rays	有害|VHC 的|DE 紫外線|Na 
+harmful pesticides	有害|VHC 的|DE 殺蟲劑|Na 
+harmful algae	有害|VHC 藻類|Na 
+harmful tax competition	有害|VHC 的|DE 稅收|Na 競爭|Na 
+harmful particles	有害|VHC 微粒|Na 
+harmful acts	有害|VHC 的|DE 行為|Na 
+harmful concentration	有害|VHC 濃度|Na 
+harmful interactions	有害|VHC 的|DE 相互|A 作用|Na 
+harmful influences	有害|VHC 影響|Na 
+harmful subsidies	有害|VHC 的|DE 補貼|Na 
+harmful exposure	有害|VHC 的|DE 曝光|Na 
+harmful files	有害|VHC 的|DE 文件|Na 
+harmful mutations	有害|VHC 的|DE 突變|Na 
+harmful situations	有害|VHC 的|DE 情況|Na 
+harmful fumes	有害|VHC 氣體|Na 
+harmful sun	有害|VHC 的|DE 太陽|Na 
+harmful greenhouse	有害|VHC 的|DE 溫室|Nc 
+harmful amounts	有害|VHC 的|DE 金額|Na 
+harmful habits	有害|VHC 習慣|Na 
+harmful alcohol	有害|VHC 酒精|Na 
+harmful contamination	有|V_2 害|Na 污染|VC 
+harmful drinking	有害|VHC 飲酒|VA 
+harmful waste	有害|VHC 垃圾|Na 
+harmful dust	有|V_2 害|Na 粉塵|Na 
+harmful alteration	有害|VHC 的|DE 改變|Na 
+harmful additives	有害|VHC 的|DE 添加劑|Na 
+harmful pests	有害|VHC 生物|Na 
+harmful thing	有害|VHC 的|DE 東西|Na 
+harmful solvents	有害|VHC 溶劑|Na 
+harmful residues	有害|VHC 殘留物|Na 
+harmful computer	有害|VHC 的|DE 計算機|Na 
+harmful electromagnetic waves	有害|VHC 電磁波|Na 
+harmful speech	有害|VHC 的|DE 講話|Na 
+harmful carbon	有害|VHC 氣體|Na 
+harmful quantities	有害|VHC 的|DE 數量|Na 
+harmful contents	有害|VHC 的|DE 內容|Na 
+harmful exhaust	有害|VHC 廢氣|Na 
+harmful pollution	有害|VHC 的|DE 污染|Na 
+harmful noise	有害|VHC 的|DE 噪聲|Na 
+harmful wastes	有害|VHC 廢物|Na 
+harmful attacks	惡意|D 攻擊|VC 
+harmful cholesterol	有害|VHC 的|DE 膽固醇|Na 
+harmful skin	有害|VHC 的|DE 皮膚|Na 
+harmful concentrations	有害|VHC 濃度|Na 
+harmful parasites	有害|VHC 的|DE 寄生蟲|Na 
+harmful deposits	有害|VHC 的|DE 存款|Na 
+harmful messages	有害|VHC 的|DE 消息|Na 
+potentially harmful	潛在|A 的|DE 危害性|Na 
+particularly harmful	尤其|D 是|SHI 有害|VHC 的|T 
+environmentally harmful	對|P 環境|Na 有害|VHC 的|T 
+extremely harmful	十分|Dfa 有害|VHC 的|T 
+especially harmful	尤其|D 是|SHI 有害|VHC 的|T 
+possibly harmful	可能|D 有害|VHC 
+actually harmful	實際|VH 上|Ng 是|SHI 有害|VHC 的|T 
+otherwise harmful	否則|Cbb 對|P 人體|Na 有害|VHC 
+socially harmful	社會|Na 有害|VHC 
+really harmful	真正|D 有害|VHC 的|DE 
+positively harmful	肯定|VK 有害|VHC 
+sometimes harmful	有時|D 是|SHI 有害|VHC 的|T 
+necessarily harmful	一定|D 是|SHI 有害|VHC 的|T 
+physically harmful	身體|Na 有害|VHC 的|T 
+inherently harmful	本質|Na 上|Ng 是|SHI 有害|VHC 的|T 
+equally harmful	同樣|VH 有害|VHC 
+seriously harmful	嚴重|VH 危害|VC 
+ultimately harmful	最終|D 是|SHI 有害|VHC 的|T 
+psychologically harmful	心理|Na 有害|VHC 
+obviously harmful	顯然|D 是|SHI 有害|VHC 的|T 
+economically harmful	在|P 經濟|Na 上|Ng 是|SHI 有害|VHC 的|T 
+actively harmful	積極|VH 有害|VHC 的|T 
+truly harmful	真正|D 有害|VHC 的|DE 
+intentionally harmful	故意|VL 有害|VHC 的|T 
+downright harmful	徹頭徹尾|VH 的|DE 對|P 人體|Na 有害|VHC 
+emotionally harmful	情緒|Na 是|SHI 有害|VHC 的|T 
+probably harmful	可能|D 是|SHI 有害|VHC 的|T 
+harmful to my computer	危害|VC 我|Nh 的|DE 電腦|Na 
+harmful to minors	對|P 未|D 成年人|Na 有害|VHC 
+harmful to the environment	對|P 環境|Na 有害|VHC 的|T 
+harmful to humans	對|P 人體|Na 無害|VH 
+harmful to others	危害|VC 他人|Nh 
+harmful to the interests	有害|VHC 的|DE 利益|Na 
+harmful to the body	對|P 身體|Na 有害|VHC 
+harmful to plants	有害|VHC 植物|Na 
+harmful to fish	對|P 魚類|Na 有害|VHC 
+harmful to consumers	對|P 消費者|Na 有害|VHC 
+harmful to juveniles	對|P 青少年|Na 有害|VHC 
+harmful to animals	有害|VHC 動物|Na 
+harmful to aquatic organisms	水生|Na 生物|Na 有害|VHC 
+harmful to wildlife	有害|VHC 的|DE 野生|A 動物|Na 
+harmful to the skin	對|P 皮膚|Na 有害|VHC 
+harmful to the baby	對|P 寶寶|Na 有害|VHC 
+harmful to the reputation	有害|VHC 的|DE 聲譽|Na 
+harmful to the ozone	有害|VHC 的|DE 臭氧|Na 
+harmful to your body	有害|VHC 於|P 你|Nh 的|DE 身體|Na 
+harmful to competition	有害|VHC 的|DE 競爭|Na 
+harmful to the liver	有|V_2 害到|VC 肝臟|Na 
+harmful to the enemy	有害|VHC 的|DE 敵人|Na 
+harmful to birds	有害|VHC 鳥類|Na 
+harmful to pets	有害|VHC 的|DE 寵物|Na 
+harmful to the eyes	對|P 眼睛|Na 有害|VHC 
+harmful to kids	有害|VHC 於|P 孩子|Na 
+harmful to the brain	有|V_2 害到|VC 大腦|Na 
+harmful to the cause	有害|VHC 的|DE 原因|Na 
+harmful to cats	有害|VHC 的|DE 貓科|Na 動物|Na 
+harmful to teeth	有|V_2 害|VC 牙齒|Na 
+harmful to the lungs	有害|VHC 的|DE 肺部|Nc 
+considered harmful	認為|VE 是|SHI 有害|VHC 的|T 
+deemed harmful	被|P 視為|VG 有害|VHC 
+prove harmful	證明|VE 是|SHI 有害|VHC 的|T 
+proven harmful	證明|VE 是|SHI 有害|VHC 的|T 
+proved harmful	證明|VE 是|SHI 有害|VHC 的|T 
+considers harmful	認為|VE 有害|VHC 的|DE 
+smoking harmful	吸煙|VA 有害|VHC 的|T 
+harmful and dangerous	有害|VHC 的|DE 和|Caa 危險|VH 的|DE 
+harmful and beneficial	有害|VHC 和|Caa 有益|VJ 的|DE 
+harmful and illegal	有害|VHC 的|DE 和|Caa 非法|A 的|DE 
+harmful and destructive	有害|VHC 的|DE 和|Caa 破壞性|Na 的|DE 
+harmful and costly	有害|VHC 和|Caa 昂貴|VH 的|DE 
+harmful and toxic	有害|VHC 和|Caa 有毒|VH 的|DE 
+harmful and addictive	有害|VHC 的|DE 和|Caa 令|VL 人|Na 上癮|VH 的|DE 
+harmful and even	有害|VHC 的|T ，|PUNC 甚至|D 
+harmful and unnecessary	有害|VHC 的|DE 和|Caa 不|D 必要|VH 的|DE 
+harmful and hazardous	有害|VHC 和|Caa 危險|VH 的|DE 
+harmful and offensive	有害|VHC 和|Caa 進攻|Na 
+harmful and helpful	有害|VHC 和|Caa 有益|VJ 的|DE 
+harmful and inappropriate	有害|VHC 的|T ，|PUNC 不|D 恰當|VH 的|DE 
+harmful and annoying	有害|VHC 的|T ，|PUNC 煩人|Na 
+harmful and wrong	有害|VHC 和|Caa 錯誤|VH 的|DE 
+harmful and ineffective	有害|VHC 的|DE 和|Caa 無效|VH 的|DE 
+harmful and expensive	有害|VHC 和|Caa 昂貴|VH 的|DE 
+harmful and unfair	有害|VHC 的|DE 和|Caa 不|D 公平|VH 的|T 
+harmful and harmless	有害|VHC 與|Caa 無害|Na 
+harmful and detrimental	有害|VHC 的|DE 和|Caa 有害|VHC 的|DE 
+harmful and misleading	有害|VHC 的|DE 誤導|Na 
+harmful and abusive	有害|VHC 和|Caa 濫用|Na 
+harmful and discriminatory	有害|VHC 和|Caa 歧視|Na 
+harmful and fatal	有害|VHC 的|T ，|PUNC 致命|VH 的|DE 
+harmful and deadly	有害|VHC 的|DE 和|Caa 致命|VH 的|DE 
+harmful and undesirable	有害|VHC 並|D 不|D 可取|VH 
+harmful drinking	有害|VHC 飲酒|VA 
+harmful fishing	有害|VHC 釣魚|VA 
+harmful smoking	吸煙|VA 有害|VHC 
+harmful cleaning	有害|VHC 的|DE 清洗|Na 
+harmful logging	有害|VHC 的|DE 記錄|Na 
+harmful causing	造成|VG 危害|VC 
+harmful dieting	有害|VHC 的|DE 節食|Na

@@ -1,0 +1,39 @@
+body{
+    background:#acd2cd;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    
+}
+.show{
+    color:black;
+}
+.title{
+
+}
+
+.main{
+	
+    width: 80%;
+}
+
+
+.phrase{
+    font-weight: 600;
+    text-align: left;
+    
+}
+.example{
+    font-weight: 400;
+    text-align: left;
+}
+
+.show-box{
+    width: 50%;
+    margin: auto;
+    border-bottom: 1px dotted;
+    
+    
+}
